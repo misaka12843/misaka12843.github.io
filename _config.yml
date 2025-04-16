@@ -103,5 +103,5 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/misaka12843/mono.git
+  repo: https://github.com/misaka12843/misaka12843.github.io.git
   branch: gh-pages
