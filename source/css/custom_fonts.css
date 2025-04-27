@@ -1,0 +1,20 @@
+/* source/css/custom_fonts.css */
+
+/* 为标题设置霞鹜新致宋字体 */
+h1, h2, h3, h4, h5, h6 {
+    /* 将 霞鹜新致宋 放在最前面，霞鹜文楷 作为第二选择，后面是其他备用字体 */
+    font-family: LXGWNeoZhiSong, LXGWWenKaiScreen, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
+  }
+  
+  /* 如果你只想在文章内容区的标题应用，可以使用更精确的选择器，例如： */
+  /*
+  .post-content h1,
+  .post-content h2,
+  .post-content h3,
+  .post-content h4,
+  .post-content h5,
+  .post-content h6 {
+    font-family: LXGWNeoZhiSong, LXGWWenKaiScreen, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
+  }
+  */
+  
