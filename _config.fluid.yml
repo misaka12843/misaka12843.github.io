@@ -229,7 +229,7 @@ color:
 # Font
 font:
   font_size: 16px
-  font_family: LXGWWenKaiScreen, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"
+  font_family: 霞鹜文楷, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"
   letter_spacing: 0.02em
   code_font_size: 85%
 
@@ -242,7 +242,7 @@ custom_js:
 custom_css: 
 
 custom_head: | # <--- 修改这里，使用 `|` 来支持多行 HTML
-  <link rel='stylesheet' href='https://ik.imagekit.io/zifeng/LXGWWenKaiMono-Medium/result.css' />
+  <link rel='stylesheet' href='https://ik.imagekit.io/zifeng/LXGWWenKai-Regular/result.css' />
 
 # 网页访问统计
 # Analysis of website visitors
