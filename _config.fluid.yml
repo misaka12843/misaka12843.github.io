@@ -239,11 +239,10 @@ custom_js:
 
 # 指定自定义 .css 文件路径，用法和 custom_js 相同
 # The usage is the same as custom_js
-custom_css: /css/custom_fonts.css
+custom_css: 
 
 custom_head: | # <--- 修改这里，使用 `|` 来支持多行 HTML
-  <link rel='stylesheet' href='https://chinese-fonts-cdn.deno.dev/packages/lywkpmydb/dist/LXGWWenKaiScreen/result.css' />
-  <link rel='stylesheet' href='https://chinese-fonts-cdn.deno.dev/packages/LxgwNeoZhiSong/dist/LXGWNeoZhiSong/result.css' />
+  <link rel='stylesheet' href='https://ik.imagekit.io/zifeng/LXGWWenKaiMono-Medium/result.css' />
 
 # 网页访问统计
 # Analysis of website visitors
